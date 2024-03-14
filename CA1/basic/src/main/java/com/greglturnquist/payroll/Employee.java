@@ -33,12 +33,15 @@ public class Employee {
 	private String lastName;
 	private String description;
 
+	private int yearsInCompany;
+
 	private Employee() {}
 
-	public Employee(String firstName, String lastName, String description) {
+	public Employee(String firstName, String lastName, String description, int yearsInCompany) {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.description = description;
+		this.yearsInCompany = yearsInCompany;
 	}
 
 	@Override
@@ -88,6 +91,14 @@ public class Employee {
 
 	public void setDescription(String description) {
 		this.description = description;
+	}
+
+	public int getYearsInCompany() {
+		return yearsInCompany;
+	}
+
+	public void setYearsInCompany(int yearsInCompany) {
+		this.yearsInCompany = yearsInCompany;
 	}
 
 	@Override
