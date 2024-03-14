@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="864b5a75-0cb6-4ab8-a517-7fc9ec476803" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CA1/basic/src/main/java/com/greglturnquist/payroll/EmployeeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA1/basic/src/main/java/com/greglturnquist/payroll/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CA1/basic/src/main/java/com/greglturnquist/payroll/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "fix-invalid-email",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
