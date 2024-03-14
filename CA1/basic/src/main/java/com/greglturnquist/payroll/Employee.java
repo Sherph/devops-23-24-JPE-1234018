@@ -21,6 +21,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.validation.constraints.Email;
+import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 
 /**
@@ -36,7 +37,6 @@ public class Employee {
 	private String description;
 
 	private int yearsInCompany;
-
 	@Email
 	@NotNull
 	private String email;
@@ -107,7 +107,6 @@ public class Employee {
 	public void setYearsInCompany(int yearsInCompany) {
 		this.yearsInCompany = yearsInCompany;
 	}
-
 	public String getEmail() {
 		return email;
 	}
