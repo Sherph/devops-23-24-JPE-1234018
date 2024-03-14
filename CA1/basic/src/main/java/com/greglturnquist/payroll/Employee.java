@@ -20,6 +20,8 @@ import java.util.Objects;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotNull;
 
 /**
  * @author Greg Turnquist
@@ -35,12 +37,17 @@ public class Employee {
 
 	private int yearsInCompany;
 
+	@Email
+	@NotNull
+	private String email;
+
 	private Employee() {}
 
-	public Employee(String firstName, String lastName, String description, int yearsInCompany) {
+	public Employee(String firstName, String lastName, String description, String email, int yearsInCompany) {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.description = description;
+		this.email = email;
 		this.yearsInCompany = yearsInCompany;
 	}
 
@@ -99,6 +106,14 @@ public class Employee {
 
 	public void setYearsInCompany(int yearsInCompany) {
 		this.yearsInCompany = yearsInCompany;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
 	}
 
 	@Override
