@@ -118,8 +118,3 @@ This command will execute the newly defined task, which will create a zip file c
 
 Navigate to the zip folder: After running the task, navigate to the zip folder in your project directory to verify that the `zip` file has been successfully created.
 
-
-
-
-
-
