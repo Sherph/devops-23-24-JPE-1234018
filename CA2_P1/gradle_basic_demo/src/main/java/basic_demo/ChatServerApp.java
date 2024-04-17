@@ -1,4 +1,4 @@
-package basic_demo;
+cppackage basic_demo;
 
 /**
  * A simple app that launches a multithreaded chat room server. 
