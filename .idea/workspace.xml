@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="864b5a75-0cb6-4ab8-a517-7fc9ec476803" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CA1/basic/src/main/java/com/greglturnquist/payroll/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CA1/basic/src/main/java/com/greglturnquist/payroll/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/DatabaseLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/ReactAndSpringDataRestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/api/uriListConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/api/uriTemplateInterceptor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/resources/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/src/main/java/basic_demo/ChatServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/src/main/java/basic_demo/ChatServerApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +66,9 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "email-field",
+    "git-widget-placeholder": "tut-basic-gradle",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,10 +77,14 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\RepositorioSwitch\devops-23-24-JPE-1234018\CA2_P2\react-and-spring-data-rest-basic" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -114,6 +135,11 @@
       <workItem from="1709224649469" duration="53000" />
       <workItem from="1709724378348" duration="90000" />
       <workItem from="1710409598215" duration="4528000" />
+      <workItem from="1713258657520" duration="1025000" />
+      <workItem from="1713261873189" duration="69000" />
+      <workItem from="1713261962879" duration="155000" />
+      <workItem from="1713262151550" duration="431000" />
+      <workItem from="1713346533682" duration="1615000" />
     </task>
     <servers />
   </component>
