@@ -4,142 +4,221 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="864b5a75-0cb6-4ab8-a517-7fc9ec476803" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/DatabaseLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/java/com/greglturnquist/payroll/ReactAndSpringDataRestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/api/uriListConverter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/api/uriTemplateInterceptor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/js/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/resources/static/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/webpack.config.js" afterDir="false" />
+    <list default="true" id="6bab8ac8-a77a-452a-a420-85ad9ceb820c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/devops-23-24-JPE-1234018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CA3/CA3_P1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/src/main/java/basic_demo/ChatServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/src/main/java/basic_demo/ChatServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/node/npm" beforeDir="false" afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/node/npm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/node/npx" beforeDir="false" afterPath="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/node/npx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/CA2_P1">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sherph&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sherph/devops-23-24-JPE-1234018.git&quot;,
+    &quot;accountId&quot;: &quot;4c1f543a-b10d-4e57-8e97-90828b645efd&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2d36vKdfGwzLbpw3TgMOP1Ywk39" />
+  <component name="ProjectId" id="2gVZl46e3yn4DQnIcdeVRWCZ8RR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.EmployeeTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1 [executeServer].executor": "Run",
+    "Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1 [test].executor": "Run",
+    "Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer] (1).executor": "Run",
+    "Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer] (2).executor": "Run",
+    "Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer].executor": "Run",
+    "Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic [build].executor": "Run",
+    "Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic/build.gradle [copyJar].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "tut-basic-gradle",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Documents\RepositorioSwitch\devops-23-24-JPE-1234018\CA2_P2\react-and-spring-data-rest-basic" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Documents\RepositorioSwitch\devops-23-24-JPE-1234018\CA1\basic\src\Test\java\com.greglturnquist.payroll" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.greglturnquist.payroll" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="react-and-spring-data-rest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.greglturnquist.payroll.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.greglturnquist.payroll" />
-      <option name="MAIN_CLASS_NAME" value="com.greglturnquist.payroll.EmployeeTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic/build.gradle [copyJar]">
+    <configuration name="C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer] (2)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CA2_P1/gradle_basic_demo/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic/build.gradle [copyJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CA2_P2/react-and-spring-data-rest-basic/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="copyJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EmployeeTest" />
+        <item itemvalue="Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic/build.gradle [copyJar]" />
+        <item itemvalue="Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P2/react-and-spring-data-rest-basic [build]" />
+        <item itemvalue="Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer] (2)" />
+        <item itemvalue="Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer] (1)" />
+        <item itemvalue="Gradle.C:/Users/User/Documents/RepositorioSwitch/devops-23-24-JPE-1234018/CA2_P1/gradle_basic_demo/build.gradle [runServer]" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="864b5a75-0cb6-4ab8-a517-7fc9ec476803" name="Changes" comment="" />
-      <created>1709224645539</created>
+      <changelist id="6bab8ac8-a77a-452a-a420-85ad9ceb820c" name="Changes" comment="" />
+      <created>1715784855400</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709224645539</updated>
-      <workItem from="1709224649469" duration="53000" />
-      <workItem from="1709724378348" duration="90000" />
-      <workItem from="1710409598215" duration="4528000" />
-      <workItem from="1713258657520" duration="1025000" />
-      <workItem from="1713261873189" duration="69000" />
-      <workItem from="1713261962879" duration="155000" />
-      <workItem from="1713262151550" duration="431000" />
-      <workItem from="1713346533682" duration="1615000" />
+      <updated>1715784855400</updated>
+      <workItem from="1715784857354" duration="1758000" />
+      <workItem from="1716977873801" duration="882000" />
+      <workItem from="1716979437775" duration="2327000" />
+      <workItem from="1717503153499" duration="7688000" />
     </task>
     <servers />
   </component>
